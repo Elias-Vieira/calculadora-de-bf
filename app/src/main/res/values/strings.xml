@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora de gordura</string>
+    <string name="mulher">Mulher</string>
+    <string name="Homem">Homem</string>
+    <string name="id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="id_app">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="id_intesticial">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
